@@ -33,7 +33,7 @@ IGNORE 1 LINES;
   * season
   * month
 
-## Now the data is ready to be further Processed using SQL:
+## Now the data is ready to be further Analyzed using SQL:
 
 ``` SQL
 
