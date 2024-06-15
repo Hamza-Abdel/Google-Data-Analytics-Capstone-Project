@@ -48,8 +48,9 @@
 * The activity pattern for Members and Casuals is very similar. (it might seem different because of the y-axis are large in value in relation to total casual rides).
 
 ![Activity_Hour (2)](https://github.com/Hamza-Abdel/Google-Data-Analytics-Capstone-Project/assets/87425827/7b2e46f2-aacd-4991-b7e9-2d658db549eb)
+![Activity_Hour (3)](https://github.com/Hamza-Abdel/Google-Data-Analytics-Capstone-Project/assets/87425827/407760ca-cbe7-4da1-a7f6-6dd2fe520092)
 
-![Activity_Hour (1)](https://github.com/Hamza-Abdel/Google-Data-Analytics-Capstone-Project/assets/87425827/cb1bf7c1-5b29-4807-898b-b319b5f6d662)
+
 
 * The activity begins to rise at **4:00 AM** and peaks at **8:00 AM**.
 * The activity then stagnates unti it starts rising again at **2:00 PM** and peaks at **5:00 PM**.
