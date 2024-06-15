@@ -73,7 +73,7 @@ The analysis of ride-sharing data reveals distinct patterns in user behavior and
 
 Seasonal trends indicate a surge in activity during the summer months, accounting for 39% of annual rides, followed by autumn. This peak could be attributed to recreational riding during the summer vacation period, although additional data would be required to substantiate this hypothesis. Weekly patterns further underscore the divergent usage between members and casual riders; members are most active on Wednesdays and generally during workdays, with a noticeable dip over the weekends. Conversely, casual riders show a preference for weekends, particularly Saturdays and Sundays, reinforcing the notion that casual rides are predominantly recreational.
 
-The daily activity pattern, with spikes at 8:00 AM and 5:00 PM, aligns with typical commuting hours, suggesting that many users may be utilizing the service for transportation to and from work or school. Afternoons emerge as the peak time for ride-sharing activity. When it comes to ride types, classic bikes are the favored choice, while docked bikes are the least popular, with annual members avoiding them entirely.
+The daily activity pattern, with spikes at 8:00 AM and 5:00 PM, aligns with typical commuting hours, suggesting that many users may be utilizing the service for transportation to and from work or school. Afternoons emerge as the peak time for ride activity. When it comes to ride types, classic bikes are the favored choice, while docked bikes are the least popular, with annual members avoiding them entirely.
 
 
 ## comment
