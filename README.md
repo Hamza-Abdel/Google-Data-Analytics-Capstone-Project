@@ -65,3 +65,9 @@ Three questions will guide the future marketing program:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
+
+## **Business Task**
+I am tasked with analyzing data to figure out the difference in behavior between Casual and Member riders, in order to draw insights that might aid in converting Casual riders into Members.
+
+## Data Sources
+I used the data for the year 2023 downloaded from [HERE](https://divvy-tripdata.s3.amazonaws.com/index.html).
