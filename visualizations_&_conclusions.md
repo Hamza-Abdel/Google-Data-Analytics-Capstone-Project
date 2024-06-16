@@ -37,7 +37,7 @@
 * The most popular day for Members is **Wednesday**.
 * We could also observe that the days with the most activity for Members is in workdays. while the activity drops on the weekend, with **Sunday** being the day with the least activity.
 * The most popular day for Casuals is **Saturday** followed by **Sunday**.
-* Casual riders are more active in the weekend, compared to the weekend.
+* Casual riders are more active in the weekend, compared to the workdays.
 * This could mean that Members use the bikes to commute to work, while Casuals use it recreationally (Further data is needed to confirm this).
 * In total the most popular day is **Saturday**, and also the activity is roughly stable throughout the week.
 
@@ -52,8 +52,9 @@
 
 
 
-* The activity begins to rise at **4:00 AM** and peaks at **8:00 AM**.
+* The activity begins to rise at **4:00 AM** and peaks at **8:00 AM** for Members.
 * The activity then stagnates unti it starts rising again at **2:00 PM** and peaks at **5:00 PM**.
+* While the activity for Casuals experiences a steady rise from **4:00 AM** until **5:00 PM**.
 * This activity pattern reflects daily commute times to work and school.
 
 ![Time of Day (2)](https://github.com/Hamza-Abdel/Google-Data-Analytics-Capstone-Project/assets/87425827/e6d3126c-ff7a-4e44-93df-0fce93cb501c)
